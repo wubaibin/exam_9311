@@ -106,6 +106,8 @@
         </template>
       </el-table-column>
       <el-table-column label="工作年限" prop="work" />
+      <el-table-column label="自我评价" :show-overflow-tooltip="true" prop="evaluation" width="250" />
+      <el-table-column label="个人爱好" :show-overflow-tooltip="true" prop="hobby" width="250" />
       <el-table-column label="操作" fixed="right" prop="">
         <template slot-scope="scope">
           <el-button
