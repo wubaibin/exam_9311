@@ -1,0 +1,261 @@
+{
+  "hot": {
+    "type": 0,
+    "type_title": "限时抢购",
+    "lastTime": "2022-11-22 00:00:00",
+    "list": [
+      {
+        "id": "1",
+        "title": "",
+        "image": "Slice2",
+        "price": "35.01",
+        "price_line": "60.01",
+        "progress": "95%"
+      },
+      {
+        "id": "2",
+        "title": "",
+        "image": "Slice2",
+        "price": "35.02",
+        "price_line": "60.02",
+        "progress": "85%"
+      },
+      {
+        "id": "3",
+        "title": "",
+        "image": "Slice2",
+        "price": "35.03",
+        "price_line": "60.03",
+        "progress": "75%"
+      },
+      {
+        "id": "4",
+        "title": "",
+        "image": "Slice2",
+        "price": "35.04",
+        "price_line": "60.04",
+        "progress": "65%"
+      },
+      {
+        "id": "5",
+        "title": "",
+        "image": "Slice2",
+        "price": "35.05",
+        "price_line": "60.05",
+        "progress": "55%"
+      },
+      {
+        "id": "6",
+        "title": "",
+        "image": "Slice2",
+        "price": "35.04",
+        "price_line": "60.06",
+        "progress": "45%"
+      },
+      {
+        "id": "7",
+        "title": "",
+        "image": "Slice2",
+        "price": "35.05",
+        "price_line": "60.07",
+        "progress": "35%"
+      },
+      {
+        "id": "8",
+        "title": "",
+        "image": "Slice2",
+        "price": "35.08",
+        "price_line": "60.08",
+        "progress": "25%"
+      },
+      {
+        "id": "9",
+        "title": "",
+        "image": "Slice2",
+        "price": "35.09",
+        "price_line": "60.09",
+        "progress": "15%"
+      },
+      {
+        "id": "10",
+        "title": "",
+        "image": "Slice2",
+        "price": "35.10",
+        "price_line": "60.10",
+        "progress": "5%"
+      }
+    ]
+  },
+  "child": {
+    "type": 1,
+    "type_title": "儿童文学",
+    "list": [
+      {
+        "id": "1",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.00",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "2",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.02",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "3",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.03",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "4",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.04",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "5",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.05",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "6",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.06",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "7",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.07",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "8",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.08",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "9",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.09",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "10",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.10",
+        "price_line": "60.00",
+        "progress": "35%"
+      }
+    ]
+  },
+  "law": {
+    "type": 3,
+    "type_title": "法律医学",
+    "list": [
+      {
+        "id": "1",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.00",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "2",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.02",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "3",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.03",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "4",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.04",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "5",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.05",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "6",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.06",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "7",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.07",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "8",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.08",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "9",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.09",
+        "price_line": "60.00",
+        "progress": "35%"
+      },
+      {
+        "id": "10",
+        "title": "书籍很多很多很多很多多",
+        "image": "Slice1",
+        "price": "35.10",
+        "price_line": "60.00",
+        "progress": "35%"
+      }
+    ]
+  }
+}
