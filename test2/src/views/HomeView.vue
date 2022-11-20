@@ -128,12 +128,11 @@
       "
     >
       <el-pagination
-        :hide-on-single-page="table.total <= table.rows"
         background
         :current-page="table.page"
         :page-sizes="[10, 20, 30, 40]"
         :page-size="table.rows"
-        :total="table.total"
+        :total="12"
         layout="total, sizes, prev, pager, next, jumper"
         @size-change="handleSizeChange"
         @current-change="handleCurrentChange"
@@ -247,7 +246,6 @@ export default {
       table: {
         loading: false,
         data: [],
-        total: 12,
         page: 1,
         limit: 10,
       },
@@ -291,13 +289,6 @@ export default {
     },
     // 重置
     handleReset() {
-      this.table = {
-        loading: false,
-        data: [],
-        total: 10,
-        page: 1,
-        rows: 10,
-      };
       this.formParams = {
         name: null,
         mobile: null,
